@@ -5,7 +5,7 @@ Contact: Minghua Shen (minghua.shen@idiv.de)
 
 ## Data
 
-The database is available from Dryad.
+The database is available from Dryad (under double blind review process, will make it open later).
 
 In this repository:
 
