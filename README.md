@@ -1,6 +1,8 @@
 # FreshLanDiv
 This repository contains data and code necessary to reproduce figures in the data paper “FreshLanDiv: A global database of freshwater biodiversity across different land uses”. In this database, we compiled a global database encompassing 241 studies with species abundance data (from multiple biological groups and geographic locations) across sites with different land-use categories. The database includes metadata of each study, sites location, sample methods, sample time, land-use category, and abundance of each taxon.
 
+This repository is archived at Zenodo: <https://doi.org/10.5281/zenodo.13866691>
+
 Contact: Minghua Shen (minghua.shen@idiv.de)
 
 ## Data
